@@ -11,9 +11,12 @@ Workshop participants are encouraged to submit position papers that highlight in
 - Topic 1
 - Topic 2
 
-All submissions will be reviewed based on relevance to the conference theme - "Understanding, Protecting, and Augmenting Human Cognition with Generative AI" as well as quality and diversity. At least one author of each accepted paper must register for the workshop.
+### Submission Process
 
-For question or paper submissions please contact: something@somethingelse.com
+1. Submission material should be sent to lev.tankelevitch@microsoft.com
+2. Please also submit a personal statement of up to 600 words describing your relevant background, motivation for attending, and specific areas of interest. This will be considered holistically with the submitted work. [Link to form]
+
+All submissions will be reviewed based on relevance to the conference theme - "Understanding, Protecting, and Augmenting Human Cognition with Generative AI" as well as quality and diversity. At least one author of each accepted paper must register for the workshop.
 
 The list of accepted papers will be posted on the website and will be available for download prior to the workshop.
 
