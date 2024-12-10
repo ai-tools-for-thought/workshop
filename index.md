@@ -1,11 +1,15 @@
 ---
 layout: default
 title: "CHI 2025 Workshop on Tools for Thought"
+banner_image: "/assets/images/banner.png"
 ---
 
 # CHI 2025 Workshop on Tools for Thought {#home}
 
 _Research and Design for Understanding, Protecting, and Augmenting Human Cognition with Generative AI_
+
+<div class="banner" style="background-image: url('/assets/images/banner.png'); height: 300px; background-size: cover; background-position: center; display: flex; align-items: center; justify-content: center;">
+</div>
 
 ## About the Workshop {#about}
 

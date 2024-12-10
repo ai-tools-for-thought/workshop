@@ -9,13 +9,13 @@ body {
   width: 100%;
   background: #ffffff;
   border-bottom: 1px solid #ddd;
-  padding: 10px 0;
+  padding: 10px 16px;
 }
 
 #main-nav ul {
   list-style: none;
   margin: 0;
-  padding: 0;
+  padding: 8px 0;
   /* text-align: center; */
 }
 
@@ -40,9 +40,11 @@ section {
 }
 
 h1,
-h2, h3 {
+h2,
+h3 {
   font-weight: normal;
   margin-top: 3rem;
+  scroll-margin-top: 80px; /* adjust to match your header height */
 }
 
 .btn {
@@ -87,24 +89,26 @@ td {
   display: flex;
   flex-wrap: wrap; /* Allows items to wrap on smaller screens */
   list-style: none; /* Remove default bullet points */
-  padding: 32px;       /* Remove default padding */
-  gap: 20px;        /* Space between items */
+  padding: 32px; /* Remove default padding */
+  gap: 20px; /* Space between items */
+  font-weight: 200;
+  font-size: 1rem;
 }
 
 .organizers-container li {
   background: #f9f9f9;
-  border-radius: 5px;
+  border-radius: 10px;
   padding: 10px;
-  display: flex;           /* Each list item as a flex container too */
-  align-items: flex-start;  /* Align image and text at the top */
+  display: flex; /* Each list item as a flex container too */
+  align-items: flex-start; /* Align image and text at the top */
   width: 100%;
-  max-width: 300px;         /* Adjust for desired width of each card */
+  max-width: 400px; /* Adjust for desired width of each card */
 }
 
 .organizer-photo {
-  max-width: 60px;      /* Control the image size */
-  margin-right: 10px;   /* Space between photo and text */
-  border-radius: 50%;   /* Make the image circular */
+  max-width: 60px; /* Control the image size */
+  margin-right: 10px; /* Space between photo and text */
+  border-radius: 50%; /* Make the image circular */
 }
 
 .organizer-info {
