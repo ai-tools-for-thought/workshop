@@ -64,3 +64,5 @@ The list of accepted papers will be posted on the website and will be available 
 | 15:15 - 15:45 | Coffee break and informal demos                                          |
 | 15:45 - 17:00 | Co-ideation session: Mapping Opportunities                               |
 | 17:00 - 17:30 | Next steps and closing                                                   |
+
+## Organizers {#organizers}

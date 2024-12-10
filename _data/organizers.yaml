@@ -1,0 +1,43 @@
+- name: "Lev Tankelevitch"
+  bio: "Senior Researcher in Microsoft Research, within the Tools for Thought group. His research explores how to augment human agency in collaborative knowledge work, including using metacognition as a lens to understand and improve human-AI interaction, and to design GenAI systems that improve intentionality in collaboration. He has a background in applied behavioural science, having previously worked at the Behavioural Insights Team, and in cognitive psychology and neuroscience."
+  image: "/assets/images/lev_tankelevitch.jpg"
+
+- name: "Elena Glassman"
+  bio: "Assistant Professor at Harvard University's Paulson School Of Engineering and Applied Sciences. Her research focuses on building AI-resilient interfaces that support meta-cognition through a variety of novel interface features and affordances that enhance user's reading, writing, and sensemaking abilities."
+  image: "/assets/images/elena_glassman.jpg"
+
+- name: "Aniket Kittur"
+  bio: "Professor in the Human-Computer Interaction Institute in Carnegie Mellon's School of Computer Science. His research explores combining human and machine intelligence to scale up sensemaking and innovation in domains including scientific literature, decision making, productivity, and analogical design."
+  image: "/assets/images/aniket_kittur.jpg"
+
+- name: "Mina Lee"
+  bio: "Assistant Professor in Computer Science, Data Science Institute, and Cognitive Science (affiliated) at the University of Chicago. Her research centers around Writing with AI, especially how AI is transforming our writing process, the content we produce, and our identities as writers. She was named one of MIT Technology Review's Korean Innovators under 35 in 2022."
+  image: "/assets/images/mina_lee.jpg"
+
+- name: "Srishti Palani"
+  bio: "Senior Researcher at Tableau Research. She researches at the intersection of Cognitive Science, Human-Centered AI and Human-Computer Interaction. Her research investigates how people think and behave while exploring, sensemaking and being creative and with Generative AI and information on the Web."
+  image: "/assets/images/srishti_palani.jpg"
+
+- name: "Majeed Kazemitabaar"
+  bio: "PhD candidate at University of Toronto, where he is researching on and developing tools that balance productivity and cognitive engagement in AI-assisted programming. He has studied the impact of learning to code with AI on subsequent performance without AI, to measure the effects of overreliance on AI."
+  image: "/assets/images/majeed_kazemitabaar.jpg"
+
+- name: "Jessica He"
+  bio: "UX Designer at IBM Research, where she is a member of the Human-AI Collaboration team. Her work focuses on leveraging design to bridge the gap between user expectations and emerging AI technologies, encompassing topics including AI attribution, risk mitigation, and enhancing knowledge work."
+  image: "/assets/images/jessica_he.jpg"
+
+- name: "Gonzalo Ramos"
+  bio: "Principal Researcher at Microsoft Research at Redmond. He is part of the Human Centered AI and Experiences Group at Microsoft Research at Redmond, where he works at the intersection of HCI, Design, and AI to augment people's agencies and capabilities."
+  image: "/assets/images/gonzalo_ramos.jpg"
+
+- name: "Advait Sarkar"
+  bio: "Researcher at Microsoft, affiliated lecturer at the University of Cambridge, and honorary lecturer at University College London. He studies the effects of Generative AI on knowledge work, programming, and data analysis."
+  image: "/assets/images/advait_sarkar.jpg"
+
+- name: "Yvonne Rogers"
+  bio: "Professor of Interaction Design at University College London. A central theme of her work is concerned with designing AI that augments human cognition."
+  image: "/assets/images/yvonne_rogers.jpg"
+
+- name: "Hari Subramonyam"
+  bio: "Assistant Professor (Research) at Stanford Graduate School of Education and Computer Science (by courtesy). He is also the Ram and Vijay Sriram Faculty Fellow at the Stanford Institute for Human-Centered AI. Subramonyam studies ways to augment human learning using AI by engaging in cognitively informed design practices."
+  image: "/assets/images/hari_subramonyam.jpg"

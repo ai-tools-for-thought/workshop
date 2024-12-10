@@ -1,0 +1,13 @@
+<div class="organizers-container">
+    <ul>
+      {% for org in site.data.organizers %}
+        <li>
+          <img src="{{ org.image | relative_url }}" alt="{{ org.name }}" class="organizer-photo" />
+          <div class="organizer-info">
+            <strong>{{ org.name }}</strong><br>
+            {{ org.bio }}
+          </div>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
