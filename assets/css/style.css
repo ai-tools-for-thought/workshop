@@ -114,3 +114,13 @@ td {
 .organizer-info {
   flex: 1; /* Take up the remaining space in the li */
 }
+
+.banner {
+  height: 300px;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
