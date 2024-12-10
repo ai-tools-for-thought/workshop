@@ -5,7 +5,7 @@ title: "CHI 2025 Workshop on Tools for Thought"
 
 # CHI 2025 Workshop on Tools for Thought {#home}
 
-__Research and Design for Understanding, Protecting, and Augmenting Human Cognition with Generative AI__
+_Research and Design for Understanding, Protecting, and Augmenting Human Cognition with Generative AI_
 
 ## About the Workshop {#about}
 
