@@ -1,5 +1,7 @@
 # CHI 2025 T4T Workshop
 
+The workshop website is [hosted here](https://ai-tools-for-thought.github.io/workshop).
+
 This repository contains the website for the CHI 2025 Workshop on Tools for Thought.
 
 It is built using [Jekyll](https://jekyllrb.com/), a static site generator, and hosted on [GitHub Pages](https://pages.github.com/).
