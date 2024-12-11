@@ -2,7 +2,8 @@ title: "CHI 2025 Workshop on Tools for Thought"
 description: "Website for the CHI 2025 Workshop on Tools for Thought"
 url: "https://ai-tools-for-thought.github.io/workshop/"
 baseurl: "/workshop"
-theme: minima # or another theme you prefer
+layout: default
+# theme: minima # or another theme you prefer
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
