@@ -14,7 +14,7 @@ _Research and Design for Understanding, Protecting, and Augmenting Human Cogniti
 
 ## About the Workshop {#about}
 
-Generative AI (GenAI) radically widens the scope and capability of automation for work, learning, and creativity. While impactful, it also changes workflows and the quality of thinking involved, raising questions about its effects on cognition, including critical thinking and learning.
+Generative AI (GenAIP) radically widens the scope and capability of automation for work, learning, and creativity. While impactful, it also changes workflows and the quality of thinking involved, raising questions about its effects on cognition, including critical thinking and learning.
 Yet, GenAI also offers opportunities for designing tools for thought that protect and augment cognition. Such systems provoke critical thinking, provide personalized tutoring, or enable novel ways of sensemaking, among other approaches.
 
 The CHI community has both the duty and the means to explore this. This effort requires multi-disciplinary collaboration. CHI is a unique venue that brings together not only HCI technical system designers, developers, and engineers, but also those from psychology, linguistics, anthropology, sociology, learning science, communications, management, science studies, history, and policy, among others. We are particularly concerned with the impacts of GenAI on human cognition and the implications for the way people learn, build skills, and grow expertise.
