@@ -12,7 +12,7 @@ _Research and Design for Understanding, Protecting, and Augmenting Human Cogniti
     <img src="{{ '/assets/images/banner.png' | relative_url }}" alt="Workshop Banner">
 </div>
 
-## Description {#about}
+## About {#about}
 
 We invite researchers, designers, practitioners, and provocateurs to explore what it means to understand and shape the impact of Generative AI (GenAI) on human cognition. GenAI radically widens the scope and capability of automation for work, learning, and creativity. While impactful, it also changes workflows and the quality of thinking involved, raising questions about its effects on cognition, including critical thinking and learning. Yet, GenAI also offers opportunities for designing “tools for thought” that protect and augment cognition. Such systems provoke critical thinking, provide personalized tutoring, or enable novel ways of sensemaking, among other approaches.  
 
