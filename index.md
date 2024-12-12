@@ -8,7 +8,7 @@ banner_image: "/assets/images/banner.png"
 
 _Research and Design for Understanding, Protecting, and Augmenting Human Cognition with Generative AI_
 
-<div class="banner">f
+<div class="banner">
     <img src="{{ '/assets/images/banner.png' | relative_url }}" alt="Workshop Banner">
 </div>
 
