@@ -53,10 +53,10 @@ The list of accepted papers will be posted on the website: https://ai-tools-for-
 
 ## Key Dates {#dates}
 
-- Deadline for submissions:
-- Notifications of acceptance:
-- Camera-ready:
-- Day of Workshop:
+- **Deadline for submissions:** Thursday, February 13 2025
+- **Notifications of acceptance:** Friday, March 28 2025
+- **Camera-ready:** Friday, April 11 2025
+- **Day of Workshop:** TBC
 
 ## Workshop Program (Draft) {#program}
 
