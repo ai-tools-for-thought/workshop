@@ -129,3 +129,8 @@ td {
   justify-content: center;
   overflow: hidden;
 }
+
+.hero-image {
+  width: auto;
+  height: 100%;
+}
