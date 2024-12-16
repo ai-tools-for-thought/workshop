@@ -3,6 +3,22 @@ body {
   margin: 0;
 }
 
+
+@media (max-width: 650px) {
+  main{ 
+    margin: 64px 30px;
+  }
+}@media (min-width: 651px) {
+  main{ 
+    margin: 64px 60px;
+  }
+}@media (min-width: 1025px) {
+  main{ 
+    width: 800px;
+    margin: auto;
+  }
+}
+
 #main-nav {
   position: fixed;
   top: 0;
