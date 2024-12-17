@@ -58,6 +58,8 @@ The list of accepted papers will be posted on the website: https://ai-tools-for-
 - **Camera-ready:** Friday, April 11 2025
 - **Day of Workshop:** TBC
 
+Feel free to [join our Discord server](https://discord.gg/WtEzx43ZmD), where you can ask questions, or discuss the topics of this workshop.
+
 ## Workshop Program (Draft) {#program}
 
 
