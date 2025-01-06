@@ -39,6 +39,7 @@ Please submit your application by email to [t4t-workshop-chi2025@microsoft.com](
 **Body:**
 - Corresponding author name
 - Corresponding author institution
+- Short bio from each author on a submission. The bio should focuse on relevant background and interest for the workshop (max 150 words per bio).
 - Submission title
 - Submission keywords
 - Submission links (if applicable)
@@ -54,7 +55,7 @@ The list of accepted papers will be posted on the website: https://ai-tools-for-
 ## Key Dates {#dates}
 
 - **Deadline for submissions:** Thursday, February 13 2025
-- **Notifications of acceptance:** Friday, March 28 2025
+- **Notifications of acceptance:** Friday, February 28 2025
 - **Camera-ready:** Friday, April 11 2025
 - **Day of Workshop:** TBC
 

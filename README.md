@@ -6,6 +6,10 @@ This repository contains the website for the CHI 2025 Workshop on Tools for Thou
 
 It is built using [Jekyll](https://jekyllrb.com/), a static site generator, and hosted on [GitHub Pages](https://pages.github.com/).
 
+Once setup in VS Code, it should run locally using:
+
+bundle exec jekyll serve --port 5000
+
 ## What to edit
 
 To make changes to the website's content, you can edit the markdown file `index.md` in the root directory.
