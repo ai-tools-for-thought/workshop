@@ -57,7 +57,7 @@ The list of accepted papers will be posted on the website: https://ai-tools-for-
 - **Deadline for submissions:** Thursday, February 13 2025
 - **Notifications of acceptance:** Friday, February 28 2025
 - **Camera-ready:** Friday, April 11 2025
-- **Day of Workshop:** TBC
+- **Day of Workshop:** Saturday, April 26 2025
 
 Feel free to [join our Discord server](https://discord.gg/WtEzx43ZmD), where you can ask questions, or discuss the topics of this workshop.
 
@@ -75,5 +75,9 @@ Feel free to [join our Discord server](https://discord.gg/WtEzx43ZmD), where you
 | 15:15 - 15:45 | Coffee break and informal demos                                          |
 | 15:45 - 17:00 | Co-ideation session: Mapping Opportunities                               |
 | 17:00 - 17:30 | Next steps and closing                                                   | 
+
+
+
+Note that the workshop will be **in-person only** to facilitate in-depth discussion among all participants, and to avoid challenges in ensuring equitable opportunities for participation between in-person and remote attendees. While we acknowledge that this decision would unfortunately exclude those who cannot travel to attend in person, we believe that this trade-off would result in a superior experience for those who do attend, and is better aligned with the primary community-building aim of the workshop. Alongside synchronous in-person engagement, we will use [our Discord server](https://discord.gg/WtEzx43ZmD), which anyone is free to join, for asynchronous discussions before, during, and after the workshop.
 
 ## Organizers {#organizers}
