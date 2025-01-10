@@ -4,9 +4,11 @@ title: "CHI 2025 Workshop on Tools for Thought"
 banner_image: "/assets/images/banner.png"
 ---
 
-# Call for Participation in a CHI2025 Workshop on Tools for Thought {#home}
+# CHI2025 Workshop on Tools for Thought: Call for Participation {#home}
 
 _Research and Design for Understanding, Protecting, and Augmenting Human Cognition with Generative AI_
+
+Saturday, April 26, 2025 — Yokohama, Japan
 
 <div class="banner">
     <img src="{{ '/assets/images/banner2.png' | relative_url }}" alt="Workshop Banner" class="hero-image" />
@@ -20,7 +22,7 @@ How does GenAI change workflows and human cognition? What are opportunities and 
 
 ## Submission Process {#submission}
 
-All submissions require EITHER a paper that is 2-4 pages in length [formatted according to the ACM article template with ‘sigconf’ style (\documentclass[sigconf,screen]{acmart}) ([LaTeX template instructions](https://authors.acm.org/proceedings/production-information/preparing-your-article-with-latex)), or ACM primary article template if using Microsoft Word ([Word template instructions](https://authors.acm.org/proceedings/production-information/preparing-your-article-with-microsoft-word))]; OR a portfolio of work (accompanied by description of relevance). In either case, we encourage links to videos, visual or computational portfolios, prototypes etc.
+All submissions require EITHER a **paper** that is 2-4 pages in length [formatted according to the ACM article template with ‘sigconf’ style (\documentclass[sigconf,screen]{acmart}) ([LaTeX template instructions](https://authors.acm.org/proceedings/production-information/preparing-your-article-with-latex)), or ACM primary article template if using Microsoft Word ([Word template instructions](https://authors.acm.org/proceedings/production-information/preparing-your-article-with-microsoft-word))]; OR a **portfolio of work (accompanied by description of relevance)**. In either case, we encourage links to videos, visual or computational portfolios, prototypes etc.
 
 Please submit work that highlights interesting points of discussion, opinions, open research questions, descriptions of user experiences and ongoing or planned research, around opportunities and challenges for designing GenAI systems that protect and augment human cognition.
 
@@ -29,23 +31,25 @@ Topics of interest for the position papers include (but are not limited to):
 - What contemporary and historical theories and perspectives are relevant to understanding, protecting, and augmenting human thinking?
 - What are the opportunities and challenges for designing GenAI systems that protect and augment human thinking?
 - How do we study and measure the impact of current and novel GenAI systems for protecting and augmenting human thinking?
-- What will the impact of Generative AI paradigms be on human skills and the workflows of which they are a part – what skills needs to be maintained without AI, what skills can be offloaded to AI, and skills what would be best augmented by AI?
+- What will the impact of Generative AI paradigms be on human skills and the workflows of which they are a part – what skills needs to be maintained without AI, what skills can be offloaded to AI, and what skills would be best augmented by AI?
 - What are the principles or guidelines for designing GenAI systems that protect and augment human thinking?
 
-Please submit your application by email to [t4t-workshop-chi2025@microsoft.com](mailto:t4t-workshop-chi2025@microsoft.com) and include the following information:
+Please submit your application via this **[submission form](https://forms.office.com/r/CahyHpHDEB)**
 
-**Subject:** T4T Workshop CHI2025 Submission
+Submissions should include the following information:
 
-**Body:**
 - Corresponding author name
+- Corresponding author email
 - Corresponding author institution
-- Short personal statement from each author on a submission. The statement should focus on relevant background, motivations, and interests for the workshop (max 150 words per statement).
+- Short personal statement from each attending author on a submission. The statement should focus on relevant background, motivations, and interests for the workshop (max 150 words per statement).
 - Submission title
 - Submission keywords
-- Submission links (if applicable)
-- Attach a paper that is 2-4 pages in length, formatted according to the instructions above, in either PDF or DOCX file format.
+- Submission URL (**ensure we have read-access**) 
+- URL to other supporting files, if applicable (e.g., videos, prototypes, visual or computational portfolios)
 
-Workshop participants will be selected through a review process. Submissions will be reviewed by at least two members of the workshop’s organizing committee ([ACM category: Reviewed](https://www.acm.org/publications/policies/pre-publication-evaluation)). Submissions will be reviewed based on relevance to the workshop theme of "Understanding, Protecting, and Augmenting Human Cognition with Generative AI" as well as quality and diversity. A subset of submissions will be selected for a lightning talk and panel discussion.
+Workshop participants will be selected through a review process. Submissions will be reviewed by at least two members of the workshop’s organizing committee ([ACM category: Reviewed](https://www.acm.org/publications/policies/pre-publication-evaluation)). Submissions will be reviewed based on relevance to the workshop theme of "Understanding, Protecting, and Augmenting Human Cognition with Generative AI" as well as quality and diversity. 
+
+A subset of submissions will be selected for a lightning talk and panel discussion.
 
 At least one author of each accepted paper must register for and attend the workshop. Note that, unlike in previous years, if you are **only** attending a workshop, there is no need to additionally register for the CHI conference. Registration for the conference is required if you are attending any other sessions.
 
@@ -67,7 +71,7 @@ Feel free to [join our Discord server](https://discord.gg/WtEzx43ZmD), where you
 | Time          | Activity                                                                 |
 |---------------|--------------------------------------------------------------------------|
 | 09:00 - 09:30 | Welcome, ice-breaker, and coffee                                         |
-| 09:30 - 10:45 | Lightning talks + panel discussion: Impact of GenAI on Cognition and Workflows 1 |
+| 09:30 - 10:45 | Lightning talks + panel discussion: Impact of GenAI on Cognition and Workflows |
 | 10:45 - 11:15 | Coffee break and informal demos                                          |
 | 11:15 - 12:30 | Lightning talks + panel discussion: Methods and Theories                 |
 | 12:30 - 14:00 | Lunch break (informal networking and discussion)                         |
