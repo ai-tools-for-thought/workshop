@@ -20,7 +20,7 @@ How does GenAI change workflows and human cognition? What are opportunities and 
 
 ## Submission Process {#submission}
 
-All submissions require a paper that is 2-4 pages in length, formatted according to the ACM article template with ‘sigconf’ style (\documentclass[sigconf,screen]{acmart}) ([LaTeX template instructions](https://authors.acm.org/proceedings/production-information/preparing-your-article-with-latex)), or ACM primary article template if using Microsoft Word ([Word template instructions](https://authors.acm.org/proceedings/production-information/preparing-your-article-with-microsoft-word)). We encourage links to videos, visual or computational portfolios, prototypes etc.
+All submissions require EITHER a paper that is 2-4 pages in length [formatted according to the ACM article template with ‘sigconf’ style (\documentclass[sigconf,screen]{acmart}) ([LaTeX template instructions](https://authors.acm.org/proceedings/production-information/preparing-your-article-with-latex)), or ACM primary article template if using Microsoft Word ([Word template instructions](https://authors.acm.org/proceedings/production-information/preparing-your-article-with-microsoft-word))]; OR a portfolio of work (accompanied by description of relevance). In either case, we encourage links to videos, visual or computational portfolios, prototypes etc.
 
 Please submit work that highlights interesting points of discussion, opinions, open research questions, descriptions of user experiences and ongoing or planned research, around opportunities and challenges for designing GenAI systems that protect and augment human cognition.
 
@@ -39,13 +39,13 @@ Please submit your application by email to [t4t-workshop-chi2025@microsoft.com](
 **Body:**
 - Corresponding author name
 - Corresponding author institution
-- Short bio from each author on a submission. The bio should focuse on relevant background and interest for the workshop (max 150 words per bio).
+- Short personal statement from each author on a submission. The statement should focus on relevant background, motivations, and interests for the workshop (max 150 words per statement).
 - Submission title
 - Submission keywords
 - Submission links (if applicable)
 - Attach a paper that is 2-4 pages in length, formatted according to the instructions above, in either PDF or DOCX file format.
 
-Workshop participants will be selected through a review process. Submissions will be reviewed by at least two members of the workshop’s organizing committee ([ACM category: Reviewed](https://www.acm.org/publications/policies/pre-publication-evaluation)). Submissions will be reviewed based on relevance to the workshop theme of "Understanding, Protecting, and Augmenting Human Cognition with Generative AI" as well as quality and diversity.
+Workshop participants will be selected through a review process. Submissions will be reviewed by at least two members of the workshop’s organizing committee ([ACM category: Reviewed](https://www.acm.org/publications/policies/pre-publication-evaluation)). Submissions will be reviewed based on relevance to the workshop theme of "Understanding, Protecting, and Augmenting Human Cognition with Generative AI" as well as quality and diversity. A subset of submissions will be selected for a lightning talk and panel discussion.
 
 At least one author of each accepted paper must register for and attend the workshop. Note that, unlike in previous years, if you are **only** attending a workshop, there is no need to additionally register for the CHI conference. Registration for the conference is required if you are attending any other sessions.
 
