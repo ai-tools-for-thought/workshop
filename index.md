@@ -34,7 +34,7 @@ Topics of interest for the position papers include (but are not limited to):
 - What will the impact of Generative AI paradigms be on human skills and the workflows of which they are a part – what skills needs to be maintained without AI, what skills can be offloaded to AI, and what skills would be best augmented by AI?
 - What are the principles or guidelines for designing GenAI systems that protect and augment human thinking?
 
-Please submit your application via this **[submission form](https://forms.office.com/r/CahyHpHDEB)**
+#### Please submit your application via this <a href="https://forms.office.com/r/CahyHpHDEB" target="_blank">submission form</a>. 
 
 Submissions should include the following information:
 
