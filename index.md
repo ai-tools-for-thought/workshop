@@ -4,8 +4,7 @@ title: "CHI 2025 Workshop on Tools for Thought"
 banner_image: "/assets/images/banner.png"
 ---
 
-# CHI2025 Workshop on Tools for Thought:   
-# Call for Participation {#home}
+# CHI2025 Workshop on Tools for Thought: Call for Participation {#home}
 
 _Research and Design for Understanding, Protecting, and Augmenting Human Cognition with Generative AI_
 
