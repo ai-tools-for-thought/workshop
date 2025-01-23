@@ -22,11 +22,13 @@ How does GenAI change workflows and human cognition? What are opportunities and 
 
 ## Submission Process {#submission}
 
-All submissions require EITHER a **paper** that is 2-4 pages in length [formatted according to the ACM article template with ‘sigconf’ style (\documentclass[sigconf,screen]{acmart}) ([LaTeX template instructions](https://authors.acm.org/proceedings/production-information/preparing-your-article-with-latex)), or ACM primary article template if using Microsoft Word ([Word template instructions](https://authors.acm.org/proceedings/production-information/preparing-your-article-with-microsoft-word))]; OR a **portfolio of work (accompanied by description of relevance)**. In either case, we encourage links to videos, visual or computational portfolios, prototypes etc.
+All submissions require EITHER a **paper** that is 2-4 pages in length, excluding references [formatted according to the ACM article template with ‘sigconf’ style (\documentclass[sigconf,screen]{acmart}) ([LaTeX template instructions](https://authors.acm.org/proceedings/production-information/preparing-your-article-with-latex)), or ACM primary article template if using Microsoft Word ([Word template instructions](https://authors.acm.org/proceedings/production-information/preparing-your-article-with-microsoft-word))]; OR a **portfolio of work (accompanied by description of relevance)**. In either case, we encourage links to videos, visual or computational portfolios, prototypes etc. 
+
+Paper submissions can be empirical studies, position papers, or anything in between. Portfolio submissions are targeted at anyone who prefers to represent their thinking primarily through artifacts, rather than a full-length paper.
 
 Please submit work that highlights interesting points of discussion, opinions, open research questions, descriptions of user experiences and ongoing or planned research, around opportunities and challenges for designing GenAI systems that protect and augment human cognition.
 
-Topics of interest for the position papers include (but are not limited to):
+Topics of interest for submissions include (but are not limited to):
 
 - What contemporary and historical theories and perspectives are relevant to understanding, protecting, and augmenting human thinking?
 - What are the opportunities and challenges for designing GenAI systems that protect and augment human thinking?
