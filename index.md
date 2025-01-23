@@ -8,7 +8,7 @@ banner_image: "/assets/images/banner.png"
 
 _Research and Design for Understanding, Protecting, and Augmenting Human Cognition with Generative AI_
 
-Saturday, April 26, 2025 — Yokohama, Japan
+Saturday, April 26, 2025 — 9AM-5:30PM JST — Yokohama, Japan
 
 <div class="banner">
     <img src="{{ '/assets/images/banner2.png' | relative_url }}" alt="Workshop Banner" class="hero-image" />
