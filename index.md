@@ -60,8 +60,8 @@ The list of accepted papers will be posted on the website: https://ai-tools-for-
 
 ## Key Dates {#dates}
 
-- **Deadline for submissions:** Thursday, February 13 2025
-- **Notifications of acceptance:** Friday, February 28 2025
+- **Deadline for submissions:** <del>Thursday, February 13 2025</del> Thursday, February 20 2025 (extended)
+- **Notifications of acceptance:** <del>Friday, February 28 2025</del> Monday, March 10, 2025 (extended)
 - **Camera-ready:** Friday, April 11 2025
 - **Day of Workshop:** Saturday, April 26 2025
 
