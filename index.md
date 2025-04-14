@@ -50,6 +50,7 @@ Note that the workshop will be **in-person only** to facilitate in-depth discuss
 
 ## Submissions {#submissions}
 
-Coming soon.
+All accepted papers for this workshop are available in our [GitHub repository](https://github.com/ai-tools-for-thought/workshop/tree/main/documents). You can browse and download the PDF files directly from there.
+
 
 ## Organizers {#organizers}
