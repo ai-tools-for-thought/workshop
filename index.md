@@ -48,7 +48,7 @@ Feel free to [join our Discord server](https://discord.gg/WtEzx43ZmD), where you
 
 Note that the workshop will be **in-person only** to facilitate in-depth discussion among all participants, and to avoid challenges in ensuring equitable opportunities for participation between in-person and remote attendees. While we acknowledge that this decision would unfortunately exclude those who cannot travel to attend in person, we believe that this trade-off would result in a superior experience for those who do attend, and is better aligned with the primary community-building aim of the workshop. Alongside synchronous in-person engagement, we will use [our Discord server](https://discord.gg/WtEzx43ZmD), which anyone is free to join, for asynchronous discussions before, during, and after the workshop.
 
-## Submissions {#submissions}
+## Papers {#papers}
 
 All accepted papers for this workshop are available in our [GitHub repository](https://github.com/ai-tools-for-thought/workshop/tree/main/documents). You can browse and download the PDF files directly from there.
 
@@ -84,5 +84,9 @@ All accepted papers for this workshop are available in our [GitHub repository](h
 | Nick von Felten | Beyond Isolation: Towards an Interactionist Perspective on Human Bias and AI Bias |
 | Sitong Wang and Lydia B. Chilton | Schemex: Discovering Design Patterns from Examples through Iterative Abstraction and Refinement |
 | Haijun Xia | Generative, Malleable, and Personal Information Environment |
+| Yaqing Yang et al. | From Overload to Insight: Scaffolding Creative Ideation through Structuring Inspiration |
+| Ryan Yen et al. | Something In Between Formal Spec and Informal Representation |
+| Zelun Tony Zhang and Leon Reicherts | Augmenting Human Cognition With Generative AI: Lessons From AI-Assisted Decision-Making |
+| Tim Zindulka et al. | Prompting by Doing: How Direct Manipulation can Protect and Augment Writers' Thoughts in AI Tools |
 
 ## Organizers {#organizers}
