@@ -8,7 +8,11 @@ It is built using [Jekyll](https://jekyllrb.com/), a static site generator, and 
 
 Once setup in VS Code, it should run locally using:
 
+```zsh
 bundle exec jekyll serve --port 5000
+```
+
+And point your browser to http://localhost:5000/workshop
 
 ## What to edit
 
