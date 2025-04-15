@@ -54,39 +54,39 @@ All accepted papers for this workshop are available in our [GitHub repository](h
 
 | Author | Title |
 | --- | --- |
-| Dinesh Ayyappan and David A. Joyner | Understanding, Protecting, and Augmenting Human Cognition with Generative AI |
-| Jessica Y. Vo et al. | Who's the Leader? Analyzing Novice Workflows in LLM-Assisted Debugging of Machine Learning Code |
-| Chance Casteneda and Jessica Mindel et al. | Supporting AI-Augmented Meta-Decision Making with InDecision |
-| Manni Cheung | From Answer Machines to Ignorant Co-Learners: Designing AI to Augment Rather than Replace Human Thinking |
-| Peter Dalsgaard | Generative AI as a Tool for Designerly Thinking |
-| Yue (Chris) Fu and Alexis Hiniker | Supporting Students’ Reading and Cognition with AI |
-| Frederic Gmeiner et al. | Designing Metacognitive Support Interactions to Augment People’s Thinking in Complex (Co-)Creative Tasks |
-| Joshua Holstein, et al. | From Consumption to Collaboration: Measuring Interaction Patterns to Augment Human Cognition in Open-Ended Tasks |
-| Janet G. Johnson and Steven R. Rick | The Promise and Peril of Collaboration: Fostering Appropriate Reliance When Problem-Solving with GenAI |
-| Anjali Khurana and Parmit K. Chilana | Designing Semi-Automated Copilots: Balancing User Control and Guidance for Effective Human-Agent Collaboration |
-| Eunhye Kim et al. | Beyond Tools: Understanding How Heavy Users Integrate LLMs into Everyday Tasks and Decision-Making |
-| Markus Langer | Why Should we Invest Epistemic Labor in a World of Generative AI? |
-| Joanne Leong | Designing Transformative Lenses to Aid Thinking |
-| Can Liu and Wengxi Li | Bridging the Cognitive Gap: Cross-Modality Perception in AI-Generated Content |
-| Xingyu Bruce Liu et al. | Interacting with Thoughtful AI |
-| Bryan Min and Haijun Xia | Feedforward in Generative AI: Opportunities for a Design Space |
-| Anirban Mukhopadhyay and Kurt Luther | Tailoring Generative AI to Augment Creative Leadership in Capture-The-Flag Development |
-| Syeda Masooma Naqvi et al. | Computational Reification of Creativity: How Generative AI Reshapes Creative Cognition |
-| Sachita Nishal et al. | Designing for Agency in LLM-Infused Writing Support Tools for Science Journalism |
-| Kris Pilcher and Esen K. Tütüncü | Purposefully Induced Psychosis (PIP): Embracing Hallucination as Imagination in Large Language Models |
-| James Prather and Brent N. Reeves | Pedagogy for critical engagement with Generative AI |
-| Chris Quintana and Rebecca M. Quintana | Students’ Experiences Using Generative AI Within Learning Experience Design Workflows |
-| Kathrin Schnizer and Sven Mayer | User-Centered AI for Data Exploration – Rethinking GenAI’s Role in Visualization |
-| Anjali Singh et al. | Protecting Human Cognition in the Age of AI |
-| Alexa Siu and Raymond Fok | Augmenting Expert Cognition in the Age of Generative AI: Insights from Document-Centric Knowledge Work |
-| Petr Slovak | Tools for (Changing) Thought: Scaffolding Cognitive Skills Development within Mental Health Contexts |
-| Sangho Suh | The Next Leap Forward in Human Intelligence: Expanding & Exploring Complex Spaces of Thought |
-| Nick von Felten | Beyond Isolation: Towards an Interactionist Perspective on Human Bias and AI Bias |
-| Sitong Wang and Lydia B. Chilton | Schemex: Discovering Design Patterns from Examples through Iterative Abstraction and Refinement |
-| Haijun Xia | Generative, Malleable, and Personal Information Environment |
-| Yaqing Yang et al. | From Overload to Insight: Scaffolding Creative Ideation through Structuring Inspiration |
-| Ryan Yen et al. | Something In Between Formal Spec and Informal Representation |
-| Zelun Tony Zhang and Leon Reicherts | Augmenting Human Cognition With Generative AI: Lessons From AI-Assisted Decision-Making |
-| Tim Zindulka et al. | Prompting by Doing: How Direct Manipulation can Protect and Augment Writers' Thoughts in AI Tools |
+| Dinesh Ayyappan and David A. Joyner | [Understanding, Protecting, and Augmenting Human Cognition with Generative AI](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Ayyappan%20and%20Joyner%20-%20CHI_ToolsForThought_PositionPaper_CameraReady.pdf) | 
+| Jessica Y. Bo et al. | [Who's the Leader? Analyzing Novice Workflows in LLM-Assisted Debugging of Machine Learning Code](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Bo%20et%20al%20-%20whos_the_leader_tools_for_thought_CHI25_.pdf)|
+| Chance Casteñeda and Jessica Mindel et al. | [Supporting AI-Augmented Meta-Decision Making with InDecision](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Castaneda%20and%20Mindel%20et%20al%20-%20CHI%20T4T%20-%20Supporting%20AI-Augmented%20Meta-Decision%20Making%20with%20InDecision.pdf)  |
+| Manni Cheung | [From Answer Machines to Ignorant Co-Learners: Designing AI to Augment Rather than Replace Human Thinking](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Cheung%20-%20From_Answering_Machines_to_Ignorant_Co_Learners__Final_.pdf) |
+| Peter Dalsgaard | [Generative AI as a Tool for Designerly Thinking](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Dalsgaard%20-%202025%20-%20Generative_AI_as_a_Tool_for_Designerly_Thinking.pdf) |
+| Yue (Chris) Fu and Alexis Hiniker | [Supporting Students’ Reading and Cognition with AI](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Fu%20and%20Hiniker%20-%2025_CHI_Workshop__Students__Reading_and_Cognition%20-%20%20to%20Committee.pdf) |
+| Frederic Gmeiner et al. | [Designing Metacognitive Support Interactions to Augment People’s Thinking in Complex (Co-)Creative Tasks](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Gmeiner%20et%20al%20-%20Gmeiner_DesigningMetacognitiveSupport_ToolsForThought_CHI25_CameraReady.pdf) |
+| Joshua Holstein et al. | [From Consumption to Collaboration: Measuring Interaction Patterns to Augment Human Cognition in Open-Ended Tasks](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Holstein%20et%20al%20-%20CHI25_Tools_for_Thought_Consumption%20to%20Engagement%20Framework.pdf) |
+| Janet G. Johnson and Steven R. Rick | [The Promise and Peril of Collaboration: Fostering Appropriate Reliance When Problem-Solving with GenAI](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Johnson%20and%20Rick%20-%20Toolsforthought_CHI25_CollaborativeGenAI.pdf) |
+| Anjali Khurana and Parmit K. Chilana | [Designing Semi-Automated Copilots: Balancing User Control and Guidance for Effective Human-Agent Collaboration](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Khurana%20and%20Chilana%20-%20CHI2025_Workshop_CameraReady.pdf) |
+| Eunhye Kim et al. | [Beyond Tools: Understanding How Heavy Users Integrate LLMs into Everyday Tasks and Decision-Making](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Kim%20et%20al%20-%20CHI25_Workshop_BeyondTools_Kim_CameraReady.pdf.pdf) |
+| Markus Langer | [Why Should we Invest Epistemic Labor in a World of Generative AI?](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Langer%20-%20CHI25_Tools_for_Thought_Workshop.pdf) |
+| Joanne Leong | [Designing Transformative Lenses to Aid Thinking](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Leong%20-%20JoanneLeong-TransformativeLenses-CameraReady.pdf) |
+| Can Liu and Wengxi Li | [Bridging the Cognitive Gap: Cross-Modality Perception in AI-Generated Content](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Liu%20-%20Liu_Li_TFTWorkshop.pdf) |
+| Xingyu Bruce Liu et al. | [Interacting with Thoughtful AI](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Liu%20et%20al%20-%20CHI_2025_Workshop_Thought_Position_Paper.pdf) |
+| Bryan Min and Haijun Xia | [Feedforward in Generative AI: Opportunities for a Design Space](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Min%20and%20Xia%20-%20CHI25_Workshop___Feedforward_in_GenAI.pdf) |
+| Anirban Mukhopadhyay and Kurt Luther | [Tailoring Generative AI to Augment Creative Leadership in Capture-The-Flag Development](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Mukhopadhyay%20and%20Luther%20-%20Anirban_Tools_For_Thought_Workshop_Paper.pdf) |
+| Syeda Masooma Naqvi et al. | [Computational Reification of Creativity: How Generative AI Reshapes Creative Cognition](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Naqvi%20et%20al%20-%20CHI2025_Workshop_Tools4Thought.pdf) |
+| Sachita Nishal et al. | [Designing for Agency in LLM-Infused Writing Support Tools for Science Journalism](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Nishal%20et%20al%20-%20Tools%20for%20Thought%20-%20Camera-Ready.pdf) |
+| Kris Pilcher and Esen K. Tütüncü | [Purposefully Induced Psychosis (PIP): Embracing Hallucination as Imagination in Large Language Models](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Pilcher%20and%20Tutuncu%20-%20PIP_CHI25_TfTSubmission.pdf) |
+| James Prather and Brent N. Reeves | [Pedagogy for critical engagement with Generative AI](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Prather%20and%20Reeves%20-%20CHI_2025___Workshop_for_Tools_on_Thought.pdf) |
+| Chris Quintana and Rebecca M. Quintana | [Students’ Experiences Using Generative AI Within Learning Experience Design Workflows](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Quintana%20and%20Quintana-CHI%202025_Workshop-FINAL.pdf) |
+| Kathrin Schnizer and Sven Mayer | [User-Centered AI for Data Exploration – Rethinking GenAI’s Role in Visualization](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Schnizer%20and%20Mayer%20-%20schnizer2025usr.pdf) |
+| Anjali Singh et al. | [Protecting Human Cognition in the Age of AI](https://github.com/ai-tools-for-thought/workshop/tree/main/documents) |
+| Alexa Siu and Raymond Fok | [Augmenting Expert Cognition in the Age of Generative AI: Insights from Document-Centric Knowledge Work](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Singh%20et%20al%20-%20Tools_for_Thought_Workshop_paper.pdf) |
+| Petr Slovak | [Tools for (Changing) Thought: Scaffolding Cognitive Skills Development within Mental Health Contexts](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Slovak%20-%20Tools4Thought_workshop-cameraReady.pdf) |
+| Sangho Suh | [The Next Leap Forward in Human Intelligence: Expanding & Exploring Complex Spaces of Thought](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Suh%20-%20CHI25%20Tools%20for%20Thought%20Workshop%20-%20SanghoSuh.pdf) |
+| Nick von Felten | [Beyond Isolation: Towards an Interactionist Perspective on Human Bias and AI Bias](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Von%20Felten%20-%20Beyond_Isolation_Tools_For_Thought_CHI2025_Workshop.pdf) |
+| Sitong Wang and Lydia B. Chilton | [Schemex: Discovering Design Patterns from Examples through Iterative Abstraction and Refinement](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Wang%20and%20Chilton%20-%20Schemex.pdf) |
+| Haijun Xia | [Generative, Malleable, and Personal Information Environment](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Xia%20-%20Generative%2C%20Malleable%2C%20and%20Personal%20User%20Interfaces.%20Haijun%20Xia.%20UCSD.pdf) |
+| Yaqing Yang et al. | [From Overload to Insight: Scaffolding Creative Ideation through Structuring Inspiration](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Yang%20et%20al%20-%20Scaffolding%20Creative%20Ideation.pdf) |
+| Ryan Yen et al. | [Something In Between Formal Spec and Informal Representation](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Yen%20et%20al%20-%20Semi_Formal_Programming__CHI25_T4T_Workshop_%20(3).pdf) |
+| Zelun Tony Zhang and Leon Reicherts | [Augmenting Human Cognition With Generative AI: Lessons From AI-Assisted Decision-Making](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Zhang%20and%20Reicherts%20-%20T4T_Workshop_Paper_camera_ready.pdf) |
+| Tim Zindulka et al. | [Prompting by Doing: How Direct Manipulation can Protect and Augment Writers' Thoughts in AI Tools](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Zindulka%20et%20al%20-%20CHI25___Tools_for_Thoughts__Prompting_by_Doing.pdf) |
 
 ## Organizers {#organizers}
