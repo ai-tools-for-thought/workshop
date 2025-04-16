@@ -34,8 +34,14 @@ Feel free to [join our Discord server](https://discord.gg/WtEzx43ZmD), where you
 
 | Time          | Activity                                                                 |
 |---------------|--------------------------------------------------------------------------|
-| 09:00 - 09:30 | Welcome, ice-breaker, and coffee                                         |
+| 09:00 - 09:30 | Welcome and introduction                                         |
 | 09:30 - 10:45 | Lightning talks + panel discussion: Impact of GenAI on Cognition and Workflows |
+|                   Generative AI as a Tool for Designerly Thinking (Peter Dalsgaard)
+                    Protecting Human Cognition in the Age of AI (Anjali Singh)
+                    From Consumption to Collaboration: Measuring Interaction Patterns to Augment Human Cognition in Open-Ended Tasks (Joshua Holstein)
+                    Beyond Tools: Understanding How Heavy Users Integrate LLMs into Everyday Tasks and Decision-Making (Jinwook Seo)
+                    Supporting Students’ Reading and Cognition with AI (Chris Fu)
+
 | 10:45 - 11:15 | Coffee break and informal demos                                          |
 | 11:15 - 12:30 | Lightning talks + panel discussion: Methods and Theories                 |
 | 12:30 - 14:00 | Lunch break (informal networking and discussion)                         |
