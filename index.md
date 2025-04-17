@@ -41,7 +41,7 @@ Feel free to [join our Discord server](https://discord.gg/WtEzx43ZmD), where you
 | **15:40–16:05 (25min)** | Coffee break (and optional informal demos) |
 | **16:05–17:20 (75min)** | **Co-ideation session: Mapping research and design opportunities** <br> - Details soon… |
 | **17:20–17:50 (30min)** | **Next steps and closing** |
-                                                | 
+                                                
 
 <br>
 
