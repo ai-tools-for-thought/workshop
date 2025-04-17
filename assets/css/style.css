@@ -147,15 +147,7 @@ td {
 }
 
 .hero-image {
-  width: 650px;
+  width: auto;
   height: 100%;
 }
 
-.schedule {
-  background-size: cover;
-  background-position: center;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  overflow: hidden;
-}
