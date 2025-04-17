@@ -32,49 +32,49 @@ Feel free to [join our Discord server](https://discord.gg/WtEzx43ZmD), where you
 ## Workshop Program {#program}
 
 **9:00–9:30 (30min)**  
-Welcome and introduction
+    Welcome and introduction
 
 **9:30–10:45 (75min)**  
-The impact of GenAI on cognition and workflows (lightning talks + panel discussion)  
-- Generative AI as a Tool for Designerly Thinking (Peter Dalsgaard)  
-- Protecting Human Cognition in the Age of AI (Anjali Singh)  
-- From Consumption to Collaboration: Measuring Interaction Patterns to Augment Human Cognition in Open-Ended Tasks (Joshua Holstein)  
-- Beyond Tools: Understanding How Heavy Users Integrate LLMs into Everyday Tasks and Decision-Making (Eunhye Kim)  
-- Supporting Students’ Reading and Cognition with AI (Chris Fu)
+    The impact of GenAI on cognition and workflows (lightning talks + panel discussion)  
+    - Generative AI as a Tool for Designerly Thinking (Peter Dalsgaard)  
+    - Protecting Human Cognition in the Age of AI (Anjali Singh)  
+    - From Consumption to Collaboration: Measuring Interaction Patterns to Augment Human Cognition in Open-Ended Tasks (Joshua Holstein)  
+    - Beyond Tools: Understanding How Heavy Users Integrate LLMs into Everyday Tasks and Decision-Making (Eunhye Kim)  
+    - Supporting Students’ Reading and Cognition with AI (Chris Fu)
 
 **10:45–11:10 (25min)**   
-Coffee break (and optional informal demos)  
+    Coffee break (and optional informal demos)  
 
 **11:10–12:40 (90min)**  
-Designing for cognitive protection and augmentation: User research (lightning talks + panel discussion)
-- Augmenting Expert Cognition in the Age of Generative AI: Insights from Document-Centric Knowledge Work (Alexa Siu)  
-- Designing for Agency in LLM-Infused Writing Support Tools for Science Journalism (Sachita Nishal)  
-- User-Centered AI for Data Exploration – Rethinking GenAI’s Role in Visualization (Kathrin Schnizer)
+    Designing for cognitive protection and augmentation: User research (lightning talks + panel discussion)
+    - Augmenting Expert Cognition in the Age of Generative AI: Insights from Document-Centric Knowledge Work (Alexa Siu)  
+    - Designing for Agency in LLM-Infused Writing Support Tools for Science Journalism (Sachita Nishal)  
+    - User-Centered AI for Data Exploration – Rethinking GenAI’s Role in Visualization (Kathrin Schnizer)
 
-Designing for cognitive protection and augmentation: Systems (lightning talks + panel discussion)
-- Schemex: Discovering Design Patterns from Examples through Iterative Abstraction and Refinement (Sitong Wang)  
-- Supporting AI-Augmented Meta-Decision Making with InDecision (Jessica Mindel)  
-- From Overload to Insight: Structuring Creative Ideation through Structuring Inspiration (Yaqing Yang)
+    Designing for cognitive protection and augmentation: Systems (lightning talks + panel discussion)
+    - Schemex: Discovering Design Patterns from Examples through Iterative Abstraction and Refinement (Sitong Wang)  
+    - Supporting AI-Augmented Meta-Decision Making with InDecision (Jessica Mindel)  
+    - From Overload to Insight: Structuring Creative Ideation through Structuring Inspiration (Yaqing Yang)
 
 **12:40–14:10 (90min)**  
-Lunch  
+    Lunch  
 
 **14:10–15:25 (75min)**  
-Designing for cognitive protection and augmentation: Design approaches (lightning talks + panel discussion)
-- Prompting by Doing: How Direct Manipulation can Protect and Augment Writers’ Thoughts in AI Tools (Tim Zindulka)  
-- Feedforward in Generative AI: Opportunities for a Design Space (Bryan Min)  
-- Bridging the Cognitive Gap: Cross-Modality Perception in AI-Generated Content (Can Liu)  
-- Interacting with Thoughtful AI (Xingyu Bruce Liu)  
-- Something In Between Formal Spec and Informal Representation (Ryan Yen)
+    Designing for cognitive protection and augmentation: Design approaches (lightning talks + panel discussion)
+    - Prompting by Doing: How Direct Manipulation can Protect and Augment Writers’ Thoughts in AI Tools (Tim Zindulka)  
+    - Feedforward in Generative AI: Opportunities for a Design Space (Bryan Min)  
+    - Bridging the Cognitive Gap: Cross-Modality Perception in AI-Generated Content (Can Liu)  
+    - Interacting with Thoughtful AI (Xingyu Bruce Liu)  
+    - Something In Between Formal Spec and Informal Representation (Ryan Yen)
 
 **15:40–16:05 (25min)**  
-Coffee break (and optional informal demos)  
+    Coffee break (and optional informal demos)  
 
 **16:05–17:20 (75min)**    
-Co-ideation session: Mapping research and design opportunities
+    Co-ideation session: Mapping research and design opportunities
 
 **17:20–17:50 (30min)**    
-Next steps and closing
+    Next steps and closing
 
 <br>
 
