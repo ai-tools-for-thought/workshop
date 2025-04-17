@@ -31,10 +31,10 @@ Feel free to [join our Discord server](https://discord.gg/WtEzx43ZmD), where you
 
 ## Workshop Program {#program}
 
-**9:00–9:30 (30min)**
+**9:00–9:30 (30min)**  
 Welcome and introduction
 
-**9:30–10:45 (75min)**
+**9:30–10:45 (75min)**  
 The impact of GenAI on cognition and workflows (lightning talks + panel discussion)  
 - Generative AI as a Tool for Designerly Thinking (Peter Dalsgaard)  
 - Protecting Human Cognition in the Age of AI (Anjali Singh)  
@@ -42,7 +42,7 @@ The impact of GenAI on cognition and workflows (lightning talks + panel discussi
 - Beyond Tools: Understanding How Heavy Users Integrate LLMs into Everyday Tasks and Decision-Making (Eunhye Kim)  
 - Supporting Students’ Reading and Cognition with AI (Chris Fu)
 
-**10:45–11:10 (25min)**
+**10:45–11:10 (25min)**   
 Coffee break (and optional informal demos)  
 
 **11:10–12:40 (90min)**  
@@ -56,7 +56,7 @@ Designing for cognitive protection and augmentation: Systems (lightning talks + 
 - Supporting AI-Augmented Meta-Decision Making with InDecision (Jessica Mindel)  
 - From Overload to Insight: Structuring Creative Ideation through Structuring Inspiration (Yaqing Yang)
 
-**12:40–14:10 (90min)**
+**12:40–14:10 (90min)**  
 Lunch  
 
 **14:10–15:25 (75min)**  
@@ -67,15 +67,13 @@ Designing for cognitive protection and augmentation: Design approaches (lightnin
 - Interacting with Thoughtful AI (Xingyu Bruce Liu)  
 - Something In Between Formal Spec and Informal Representation (Ryan Yen)
 
-**15:40–16:05 (25min)**
+**15:40–16:05 (25min)**  
 Coffee break (and optional informal demos)  
 
-
-**16:05–17:20 (75min)**  
+**16:05–17:20 (75min)**    
 Co-ideation session: Mapping research and design opportunities
-- Details soon...
 
-**17:20–17:50 (30min)**  
+**17:20–17:50 (30min)**    
 Next steps and closing
 
 <br>
