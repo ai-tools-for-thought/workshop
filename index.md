@@ -30,7 +30,7 @@ Feel free to [join our Discord server](https://discord.gg/WtEzx43ZmD), where you
 - **Day of Workshop:** Saturday, April 26 2025 JST
 
 ## Workshop Program (Draft) {#program}
-<div class="banner">
+<div class="schedule">
     <img src="{{ '/assets/images/schedule.png' | relative_url }}" alt="Workshop Schedule" class="hero-image" />
 </div>
 
