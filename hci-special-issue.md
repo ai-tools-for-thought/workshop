@@ -46,7 +46,7 @@ Feel free to share this announcement with colleagues and research networks. We l
 
 Warm regards, and stay tunned for more details.
 
-_Srishti Palani, Gonzalo Ramos, Sean Rintel & Hariharan Narayanan_
+_Srishti Palani, Gonzalo Ramos, Sean Rintel & Hariharan Subramonyam_
 
 Special Issue Co-Editors
 
