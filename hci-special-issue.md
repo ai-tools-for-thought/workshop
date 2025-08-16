@@ -7,7 +7,7 @@ title: "Call for Articles - HCI Journal Special Issue"
 
 ## Call for Articles
 
-We are pleased to announce a call for articles for an upcoming special issue of the HCI Journal, titled "Generative AI in Tools for Thought: Theory, Design, & Assessment.".
+We are pleased to announce a call for articles for an upcoming special issue of the [HCI Journal](https://www.tandfonline.com/journals/hhci20), titled "Generative AI in Tools for Thought: Theory, Design, & Assessment.".
 
 ## Why This Issue Matters
 Generative AI is rapidly reshaping cognitive workflows—from creative writing to scientific reasoning. Yet we still grapple with questions: Does GenAI amplify our creativity or foster over-reliance? How do we design AI systems that preserve critical thinking and cognitive agency? This special issue brings together HCI scholars, cognitive scientists, designers, and ethicists to tackle these challenges.
