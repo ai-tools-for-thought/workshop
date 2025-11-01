@@ -25,8 +25,8 @@ Generative AI is rapidly reshaping cognitive workflows—from creative writing t
 - How do different GenAI interfaces affect decision-making and autonomy?
 
 ## Key Dates
-- Proposals Due: October 15, 2025
-- Proposal Decisions: October 30, 2025
+- ~~Proposals Due: October 15, 2025~~
+- Proposal Decisions: October 30-November 3, 2025
 - Full Paper Deadline: January 28, 2026
 - First Reviews to Authors: April 2, 2026
 - Revised Papers Due: May 13, 2026
