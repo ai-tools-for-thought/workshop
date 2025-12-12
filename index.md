@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "CHI 2025 Workshop on Tools for Thought"
+title: "CHI 2026 Workshop on Tools for Thought"
 banner_image: "/assets/images/banner.png"
 ---
 
-<h1 id="home">CHI2025 Workshop on Tools for Thought:<br></h1>
+<h1 id="home">CHI2026 Workshop on Tools for Thought:<br></h1>
 
-_Research and Design for Understanding, Protecting, and Augmenting Human Cognition with Generative AI_
+_Understanding, Protecting, and Augmenting Human Cognition with Generative AI — From Vision to Implementation_
 
-Saturday, April 26, 2025 — 9AM-5:50PM JST — Yokohama, Japan
+13th April, 2026 Barcelona
 
 <div class="banner">
     <img src="{{ '/assets/images/banner2.png' | relative_url }}" alt="Workshop Banner" class="hero-image" />
@@ -16,9 +16,16 @@ Saturday, April 26, 2025 — 9AM-5:50PM JST — Yokohama, Japan
 
 ## News {#news}
 
-- *2025 Workshop Synthesis*: Coming soon!  
-- *2026 Special Issue CFP*: <a href="{{ '/hci-special-issue' | relative_url }}">2026 Human Computer Interaction Special Issue CFP (NEW!)</a>
+- We're accepting submissions to our CHI 2026 workshop!
+-  <a href="https://www.microsoft.com/en-us/research/publication/understanding-protecting-and-augmenting-human-cognition-with-generative-ai-a-synthesis-of-the-chi-2025-tools-for-thought-workshop/">2025 Workshop Synthesis</a>
 
+- <a href="{{ '/hci-special-issue' | relative_url }}">2026 Human Computer Interaction Journal Special Issue CFP</a>
+
+
+## CHI 2026 Workshop Key Dates
+
+- **Deadline for submissions:** Thursday, February 12 2026 AoE
+- **Notifications of acceptance:** Friday, February 27 2026
 
 ## About {#about}
 
@@ -26,10 +33,18 @@ GenAI radically widens the scope and capability of automation for work, learning
 
 How does GenAI change workflows and human cognition? What are opportunities and challenges for designing GenAI systems that protect and augment thinking? Which theories, perspectives, and methods are relevant? This workshop aims to develop a multidisciplinary community interested in exploring these questions to protect against the erosion, and fuel the augmentation, of human cognition using GenAI.
 
+For more details, see our [workshop proposal]({{ '/assets/Tools_for_Thought_with_Generative_AI_2026_Proposal.pdf' | relative_url }}).
+
 Feel free to [join our Discord server](https://discord.gg/WtEzx43ZmD), where you can ask questions, or discuss the topics of this workshop.
 
 
-## Papers {#papers}
+## Organizers {#organizers}
+
+{% include organizers2026.html %}
+
+## Archive: CHI 2025 Workshop {#archive-dates-program}
+
+## CHI 2025 Workshop Papers {#papers}
 
 All accepted papers for this workshop are available in our [GitHub repository](https://github.com/ai-tools-for-thought/workshop/tree/main/documents). You can browse and download the PDF files directly from there.
 
@@ -40,8 +55,8 @@ All accepted papers for this workshop are available in our [GitHub repository](h
 | Chance Casteñeda and Jessica Mindel et al. | [Supporting AI-Augmented Meta-Decision Making with InDecision](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Castaneda%20and%20Mindel%20et%20al%20-%20CHI%20T4T%20-%20Supporting%20AI-Augmented%20Meta-Decision%20Making%20with%20InDecision.pdf)  |
 | Manni Cheung | [From Answer Machines to Ignorant Co-Learners: Designing AI to Augment Rather than Replace Human Thinking](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Cheung%20-%20From_Answering_Machines_to_Ignorant_Co_Learners__Final_.pdf) |
 | Peter Dalsgaard | [Generative AI as a Tool for Designerly Thinking](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Dalsgaard%20-%202025%20-%20Generative_AI_as_a_Tool_for_Designerly_Thinking.pdf) |
-| Yue (Chris) Fu and Alexis Hiniker | [Supporting Students’ Reading and Cognition with AI](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Fu%20and%20Hiniker%20-%2025_CHI_Workshop__Students__Reading_and_Cognition%20-%20%20to%20Committee.pdf) |
-| Frederic Gmeiner et al. | [Designing Metacognitive Support Interactions to Augment People’s Thinking in Complex (Co-)Creative Tasks](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Gmeiner%20et%20al%20-%20Gmeiner_DesigningMetacognitiveSupport_ToolsForThought_CHI25_CameraReady.pdf) |
+| Yue (Chris) Fu and Alexis Hiniker | [Supporting Students' Reading and Cognition with AI](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Fu%20and%20Hiniker%20-%2025_CHI_Workshop__Students__Reading_and_Cognition%20-%20%20to%20Committee.pdf) |
+| Frederic Gmeiner et al. | [Designing Metacognitive Support Interactions to Augment People's Thinking in Complex (Co-)Creative Tasks](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Gmeiner%20et%20al%20-%20Gmeiner_DesigningMetacognitiveSupport_ToolsForThought_CHI25_CameraReady.pdf) |
 | Joshua Holstein et al. | [From Consumption to Collaboration: Measuring Interaction Patterns to Augment Human Cognition in Open-Ended Tasks](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Holstein%20et%20al%20-%20CHI25_Tools_for_Thought_Consumption%20to%20Engagement%20Framework.pdf) |
 | Janet G. Johnson and Steven R. Rick | [The Promise and Peril of Collaboration: Fostering Appropriate Reliance When Problem-Solving with GenAI](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Johnson%20and%20Rick%20-%20Toolsforthought_CHI25_CollaborativeGenAI.pdf) |
 | Anjali Khurana and Parmit K. Chilana | [Designing Semi-Automated Copilots: Balancing User Control and Guidance for Effective Human-Agent Collaboration](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Khurana%20and%20Chilana%20-%20CHI2025_Workshop_CameraReady.pdf) |
@@ -56,8 +71,8 @@ All accepted papers for this workshop are available in our [GitHub repository](h
 | Sachita Nishal et al. | [Designing for Agency in LLM-Infused Writing Support Tools for Science Journalism](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Nishal%20et%20al%20-%20Tools%20for%20Thought%20-%20Camera-Ready.pdf) |
 | Kris Pilcher and Esen K. Tütüncü | [Purposefully Induced Psychosis (PIP): Embracing Hallucination as Imagination in Large Language Models](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Pilcher%20and%20Tutuncu%20-%20PIP_CHI25_TfTSubmission.pdf) |
 | James Prather and Brent N. Reeves | [Pedagogy for critical engagement with Generative AI](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Prather%20and%20Reeves%20-%20CHI_2025___Workshop_for_Tools_on_Thought.pdf) |
-| Chris Quintana and Rebecca M. Quintana | [Students’ Experiences Using Generative AI Within Learning Experience Design Workflows](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Quintana%20and%20Quintana-CHI%202025_Workshop-FINAL.pdf) |
-| Kathrin Schnizer and Sven Mayer | [User-Centered AI for Data Exploration – Rethinking GenAI’s Role in Visualization](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Schnizer%20and%20Mayer%20-%20schnizer2025usr.pdf) |
+| Chris Quintana and Rebecca M. Quintana | [Students' Experiences Using Generative AI Within Learning Experience Design Workflows](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Quintana%20and%20Quintana-CHI%202025_Workshop-FINAL.pdf) |
+| Kathrin Schnizer and Sven Mayer | [User-Centered AI for Data Exploration – Rethinking GenAI's Role in Visualization](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Schnizer%20and%20Mayer%20-%20schnizer2025usr.pdf) |
 | Anjali Singh et al. | [Protecting Human Cognition in the Age of AI](https://github.com/ai-tools-for-thought/workshop/tree/main/documents) |
 | Alexa Siu and Raymond Fok | [Augmenting Expert Cognition in the Age of Generative AI: Insights from Document-Centric Knowledge Work](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Singh%20et%20al%20-%20Tools_for_Thought_Workshop_paper.pdf) |
 | Petr Slovak | [Tools for (Changing) Thought: Scaffolding Cognitive Skills Development within Mental Health Contexts](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Slovak%20-%20Tools4Thought_workshop-cameraReady.pdf) |
@@ -70,18 +85,14 @@ All accepted papers for this workshop are available in our [GitHub repository](h
 | Zelun Tony Zhang and Leon Reicherts | [Augmenting Human Cognition With Generative AI: Lessons From AI-Assisted Decision-Making](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Zhang%20and%20Reicherts%20-%20T4T_Workshop_Paper_camera_ready.pdf) |
 | Tim Zindulka et al. | [Prompting by Doing: How Direct Manipulation can Protect and Augment Writers' Thoughts in AI Tools](https://github.com/ai-tools-for-thought/workshop/blob/main/documents/Zindulka%20et%20al%20-%20CHI25___Tools_for_Thoughts__Prompting_by_Doing.pdf) |
 
-## Organizers {#organizers}
-
-## Archive {#archive-dates-program}
-
-### 2025 Workshop Key Dates
+### CHI 2025 Workshop Key Dates
 
 - **Deadline for submissions:** <del>Thursday, February 20 2025 AoE (extended)</del>
 - **Notifications of acceptance:** <del>Friday, February 28 2025</del> Monday, March 10, 2025 AoE (extended)</del>
 - **Camera-ready:** <del>Friday, April 11 2025 AoE</del>
 - **Day of Workshop:** <del>Saturday, April 26 2025 JST</del>
 
-### 2025 Workshop Program
+### CHI 2025 Workshop Program
 
 **9:00–9:30 (30min)**  
 Welcome and introduction
@@ -131,4 +142,6 @@ Next steps and closing
 <br>
 
 Note that the workshop will be **in-person only** to facilitate in-depth discussion among all participants, and to avoid challenges in ensuring equitable opportunities for participation between in-person and remote attendees. While we acknowledge that this decision would unfortunately exclude those who cannot travel to attend in person, we believe that this trade-off would result in a superior experience for those who do attend, and is better aligned with the primary community-building aim of the workshop. Alongside synchronous in-person engagement, we will use [our Discord server](https://discord.gg/WtEzx43ZmD), which anyone is free to join, for asynchronous discussions before, during, and after the workshop.
+
+## CHI2025 Organizers
 

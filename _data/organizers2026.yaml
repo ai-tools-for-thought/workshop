@@ -1,0 +1,64 @@
+- name: "Tony Zhang"
+  bio: "Postdoctoral researcher at TU Munich, researching educational generative AI tools for learner curiosity and active engagement, and AI-based decision support tools."
+  image: "assets/images/tony_zhang.jpg"
+
+- name: "Nick von Felten"
+  bio: "Psychologist and doctoral researcher at the University of St. Gallen, Switzerland, investigating human and AI biases and designing AI tools calibrated to human cognitive tendencies."
+  image: "assets/images/nick_von_felten.jpg"
+
+- name: "Leon Reicherts"
+  bio: "Postdoctoral researcher at the University of St. Gallen, previously part of the \"Tools for Thought\" team at Microsoft Research, researching how (Gen)AI tools affect human cognition, particularly decision-making and learning."
+  image: "assets/images/leon_reicherts.jpg"
+
+- name: "Lev Tankelevitch"
+  bio: "Senior Researcher in Microsoft Research, within the Tools for Thought group. His research explores how to augment human agency in collaborative knowledge work, including using metacognition as a lens to understand and improve human-AI interaction, and to design GenAI systems that improve intentionality in collaboration. He has a background in applied behavioural science, having previously worked at the Behavioural Insights Team, and in cognitive psychology and neuroscience."
+  image: "assets/images/lev_tankelevitch.jpg"
+
+- name: "Zhitong Klara Guan"
+  bio: "PhD student at the University of Texas at Austin, researching how Generative Interactive Information Retrieval can be conceptualized, designed, and evaluated to augment essential human cognitive skills."
+  image: "assets/images/zhitong_klara_guan.jpg"
+
+- name: "Sean Rintel"
+  bio: "Senior Principal Research Manager at Microsoft Research, co-leading the \"Tools for Thought\" project, focusing on AI collaboration and intentional meetings."
+  image: "assets/images/sean_rintel.jpg"
+
+- name: "Yue Fu"
+  bio: "PhD candidate at the University of Washington Information School, with her research focusing on understanding how generative AI affects human cognition and learning."
+  image: "assets/images/yue_fu.jpg"
+
+- name: "Jessica He"
+  bio: "UX Designer at IBM Research, where she is a member of the Human-AI Collaboration team. Her work focuses on leveraging design to bridge the gap between user expectations and emerging AI technologies, encompassing topics including AI attribution, risk mitigation, and enhancing knowledge work. She focuses on designing transparency mechanisms and co-creative workflows that encourage critical engagement with generative AI tools and outputs."
+  image: "assets/images/jessica_he.jpg"
+
+- name: "Ken Holstein"
+  bio: "Assistant Professor at Carnegie Mellon University's Human-Computer Interaction Institute. His research explores how AI systems can augment human expertise in real-world design and decision-making. He has received awards for his papers at top HCI and AI conferences, including CHI, and has co-organized workshops on related topics."
+  image: "assets/images/ken_holstein.jpg"
+
+- name: "Advait Sarkar"
+  bio: "Researcher at Microsoft, affiliated lecturer at the University of Cambridge, and honorary lecturer at University College London. He studies the effects of Generative AI on knowledge work, programming, and data analysis. He leads a research agenda on enhancing critical thinking with GenAI. His article \"AI Should Challenge, Not Obey\" was featured as a cover story in Communications of the ACM."
+  image: "assets/images/advait_sarkar.jpg"
+
+- name: "Gonzalo Ramos"
+  bio: "Principal Researcher at Microsoft Research at Redmond. He is part of the Human Centered AI and Experiences Group at Microsoft Research at Redmond, where he works at the intersection of HCI, Design, and AI to augment people's agencies and capabilities. He is a graduate of the University of Toronto's DGP lab and the Universidad de Buenos Aires. Previously, he worked as a Senior Design Technologist and UX Scientist at Amazon."
+  image: "assets/images/gonzalo_ramos.jpg"
+
+- name: "Anuschka Schmitt"
+  bio: "Assistant Professor at the London School of Economics. Her research examines how AI-based systems augment human work, focusing on balancing productivity gains with work motives and long-term outcomes like knowledge preservation. She uses experimental and trace data methods in her work."
+  image: "assets/images/anuschka_schmitt.jpg"
+
+- name: "Anjali Singh"
+  bio: "Postdoctoral Fellow at the University of Texas at Austin School of Information. Her research focuses on developing and examining learning technologies that support critical thinking, agency, and metacognitive engagement, integrating empirical lab and field studies with design-based research to create personalized, scalable, and interactive systems for learning and information seeking."
+  image: "assets/images/anjali_singh.jpg"
+
+- name: "Haotian Li"
+  bio: "Researcher in Microsoft Research Asia (MSRA) with a Ph.D. and B.Eng. from HKUST. His research interest is in understanding and enhancing human-AI collaboration for creativity and productivity using techniques from HCI and AI."
+  image: "assets/images/haotian_li.jpg"
+
+- name: "Srishti Palani"
+  bio: "Senior Researcher at Tableau Research. She researches at the intersection of Cognitive Science, Human-Centered AI and Human-Computer Interaction. Her research investigates how people think and behave while exploring, sensemaking and being creative with Generative AI and information on the Web. She studies how people interpret, use, and evaluate AI for complex cognitive tasks like data analysis, decision-making, and creativity, and develops interactive intelligent tools based on these insights."
+  image: "assets/images/srishti_palani.jpg"
+
+- name: "Peter Dalsgaard"
+  bio: "Full Professor and director of the Centre for Digital Creativity at Aarhus University. He explores digital technologies from a human-centered perspective, focusing on how humans use technology to think and create in new ways. His research combines studies of real-life use of digital systems in creative processes, experiments with prototypes of new digital technologies, and the development of theories to understand the role and nature of digital tools in creative processes."
+  image: "assets/images/peter_dalsgaard.jpg"
+
