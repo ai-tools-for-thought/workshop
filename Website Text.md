@@ -1,10 +1,10 @@
 
 # Tools for Thought
 
-*Research and Design for Understanding, Protecting, and Augmenting Human Cognition with Generative AI*
+*Understanding, Protecting, and Augmenting Human Cognition with Generative AI—From Vision to Implementation*
 
 ## Call for Participation
-We are pleased to invite position papers for the half-day workshop on "Tools for Thought: Research and Design for Understanding, Protecting, and Augmenting Human Cognition with Generative AI" at CHI 2025.
+We are pleased to invite position papers for the half-day workshop on "Tools for Thought: Understanding, Protecting, and Augmenting Human Cognition with Generative AI—From Vision to Implementation" at CHI 2026.
 The workshop is intended for researchers and practitioners from industry or academia working in Human-Computer Interaction, Arts, Ethics, Social Sciences, Design, and Psychology. We also welcome contributions from anyone working on topics related to human cognition and AI.
 Workshop participants are encouraged to submit position papers that highlight interesting points of discussion, opinions, open research questions, and ongoing or planned research. We accept position papers between 2-4 pages in length, formatted according to the SIGCHI template (\documentclass[sigconf,screen]{acmart}). Topics of interest for the position papers include but are not limited to:
 
@@ -65,7 +65,7 @@ An underlying aim of this workshop and its community is to strengthen the link b
 - 15:45 - 17:00 (75min) Co-ideation session: Mapping Opportunities
 - 17:00 - 17:30 (30min) Next steps and closing
 
-## Organizers
+## CHI 2025 Workshop Organizers
 
 **Lev Tankelevitch** is a Senior Researcher in Microsoft Research, within the Tools for Thought group. His research explores how to augment human agency in collaborative knowledge work, including using metacognition as a lens to understand and improve human-AI interaction, and to design GenAI systems that improve intentionality in collaboration. He has a background in applied behavioural science, having previously worked at the Behavioural Insights Team, and in cognitive psychology and neuroscience. Find more about his work here: https://aka.ms/levt. 
 

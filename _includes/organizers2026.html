@@ -1,0 +1,14 @@
+<div class="organizers-container">
+    <ul>
+      {% for org in site.data.organizers2026 %}
+        <li>
+          <img src="{{org.image}}" alt="{{ org.name }}" class="organizer-photo" />
+          <div class="organizer-info">
+            <strong>{{ org.name }}</strong>
+            <p>{{ org.bio }}</p>
+          </div>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+
