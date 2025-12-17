@@ -103,20 +103,42 @@ We generally encourage contributions that are oriented towards operationalisatio
 
 **Submission Requirements:**
 
-1. **Workshop paper**: Upload your workshop paper as a PDF via the submission form
+1. **Workshop paper**: 
+   - Prepare your article according to the ACM article template with 'sigconf' style (\documentclass\[sigconf,screen\] {acmart}), or ACM primary article template if using Microsoft Word (Word template instructions). For details, see: [https://www.acm.org/publications/authors/submissions](https://www.acm.org/publications/authors/submissions)
+   - Upload the PDF and the source files of your workshop paper (LaTeX source or Word document) via the submission form.
+ 
 2. **"Mini poster"**: 
-   - Make a copy of the [Miro board template]() in your own account
-   - Fill out the template
-   - Share your Miro board and copy the sharing link into the [submission form](/workshop/submission-form) ([Instructions]())
-3. **Number of attendees**: Provide number of authors hoping to attend
+   - Make a copy of the [Miro board template](https://miro.com/app/board/uXjVGayRUc8=/?share_link_id=91990937828) in your own Miro account.
+    
+        Tip: You can find some sample “mini posters” here to give you an idea on how to fill out the mini poster template.
+   
+   - Fill out the template.
+   - Include the sharing URL to your Miro board and a PDF export of it in the submission form. Please follow the instructions in the Miro board for how to do this.
+ 
+3. **Number of attendees**: Provide the number of authors planning to attend (min.1 and max. 2).
+4. **Personal statement**: Prepare a max. 150-word personal statement for the attending author(s).
+
+
 
 **Tip**: Filling out the mini poster template **before or during** the process of writing the workshop paper may help you structure the latter and already include some of the components of the poster - but this is of course completely up to you.
 We do not expect you to fill out every box/field on the Miro board. Although we have tested the board with a range of contribution types, we are aware that not all the boxes might be equally applicable to all contributions.
 
 **Please note**: Accepted papers will be published on the workshop website. At least one author of each accepted submission must attend the workshop (and at most two authors may attend).
 
+**Submission**: [Click here](https://forms.fillout.com/t/u5Dx2rkszPus) to proceed to the submission form
+
 ## What Happens After Acceptance
 The organisers will thematically cluster the Miro board mini posters to form participant groups for collaborative work during the workshop. Before the workshop, participants will be asked to read the submissions (especially the mini posters) of their group members to enable focused and productive discussions.
+
+## Workshop Format
+This will be a 180-minute workshop organised around small group work:
+
+1. **Quick pitches**: Groups among themselves present each other’s Miro board to kick-off the conversation
+2. **Collaborative work**: Groups will work on tangible outputs of their choice (e.g., new frameworks, design principles, measurement techniques, theory development, or even low-fidelity TfT prototypes in a mini-hackathon style)
+3. **Group pitches**: Each group will present their results to all participants
+
+We aim for **45 participants** to foster rich discussion and meaningful collaboration.
+
 
 
 ## Important Information
@@ -127,7 +149,7 @@ The organisers will thematically cluster the Miro board mini posters to form par
 
 **Camera-ready**: Thursday, March 26, 2026 AoE
 
-**Questions?** Contact us at [ADD EMAIL]
+**Questions?** Contact us at [chi.tft.workshop@gmail.com](mailto:chi.tft.workshop@gmail.com)
 
 ## Organizers {#organizers}
 
