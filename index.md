@@ -94,12 +94,10 @@ Submissions can take diverse forms, including but not limited to:
 - Measurement techniques and methodologies
 - Critical reflections and provocations
 
-We generally encourage contributions that are oriented towards operationalisation, meaning that they provide clear paths to implementation and use - be it for a study design, evaluation approach, or TfT interface design - and/or that they are targeted at existing AI tools/uses and in which ways they are (or are not) a TfT.
+We generally encourage contributions that are oriented towards operationalisation, meaning that they provide clear paths to implementation and use—be it for a study design, evaluation approach, or TfT interface design—and/or that they are targeted at existing AI tools/uses and in which ways they are (or are not) a TfT.
 
 
 ## How to Submit
-
-**Submission portal:** TBD
 
 **Submission Requirements:**
 
@@ -108,19 +106,16 @@ We generally encourage contributions that are oriented towards operationalisatio
    - Upload the PDF and the source files of your workshop paper (LaTeX source or Word document) via the submission form.
  
 2. **"Mini poster"**: 
-   - Make a copy of the [Miro board template](https://miro.com/app/board/uXjVGayRUc8=/?share_link_id=91990937828) in your own Miro account.
-    
-        Tip: You can find some sample “mini posters” here to give you an idea on how to fill out the mini poster template.
-   
-   - Fill out the template.
-   - Include the sharing URL to your Miro board and a PDF export of it in the submission form. Please follow the instructions in the Miro board for how to do this.
+   - Make a copy of the [Miro board template](https://miro.com/app/board/uXjVGYqxRTs=/?share_link_id=265516023183) in your own Miro account. To do so click on the three dots next to the board name in the top left corner, then on "Board" and then "Duplicate". As you will be working on your own copy of the template board, there is no need to request editor rights to the template itself.
+   - Fill out your own copy of the template.
+   - Create a sharing URL to your Miro board and a PDF export of it and include both in the submission form. Please follow the instructions in the Miro board for how to do this.
  
-3. **Number of attendees**: Provide the number of authors planning to attend (min.1 and max. 2).
+3. **Number of attendees**: Confirm the number of authors planning to attend (min.1 and max. 2).
 4. **Personal statement**: Prepare a max. 150-word personal statement for the attending author(s).
 
 
 
-**Tip**: Filling out the mini poster template **before or during** the process of writing the workshop paper may help you structure the latter and already include some of the components of the poster - but this is of course completely up to you.
+**Tip**: Filling out the mini poster template **before or during** the process of writing the workshop paper may help you structure the latter and already include some of the components of the poster—but this is of course completely up to you.
 We do not expect you to fill out every box/field on the Miro board. Although we have tested the board with a range of contribution types, we are aware that not all the boxes might be equally applicable to all contributions.
 
 **Please note**: Accepted papers will be published on the workshop website. At least one author of each accepted submission must attend the workshop (and at most two authors may attend).
