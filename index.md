@@ -8,7 +8,7 @@ banner_image: "/assets/images/banner.png"
 
 _Understanding, Protecting, and Augmenting Human Cognition with Generative AI — From Vision to Implementation_
 
-13th April, 2026 Barcelona
+April 2026 in Barcelona
 
 <div class="banner">
     <img src="{{ '/assets/images/banner2.png' | relative_url }}" alt="Workshop Banner" class="hero-image" />
