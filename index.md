@@ -8,7 +8,7 @@ banner_image: "/assets/images/banner.png"
 
 _Understanding, Protecting, and Augmenting Human Cognition with Generative AI — From Vision to Implementation_
 
-13th April, 2026 Barcelona
+April 2026 in Barcelona
 
 <div class="banner">
     <img src="{{ '/assets/images/banner2.png' | relative_url }}" alt="Workshop Banner" class="hero-image" />
@@ -29,7 +29,7 @@ _Understanding, Protecting, and Augmenting Human Cognition with Generative AI �
 
 ## About {#about}
 
-GenAI radically widens the scope and capability of automation for work, learning, and creativity. While impactful, it also changes workflows, raising questions about its effects on cognition, including critical thinking and learning. Yet GenAI also offers opportunities for designing “tools for thought” that protect and augment cognition. Such systems provoke critical thinking, provide personalized tutoring, or enable novel ways of sensemaking, among other approaches.  
+GenAI radically widens the scope and capability of automation for work, learning, and creativity. While impactful, it also changes workflows, raising questions about its effects on cognition, including critical thinking and learning. Yet GenAI also offers opportunities for designing “tools for thought” (TfT) that protect and augment cognition. Such systems provoke critical thinking, provide personalized tutoring, or enable novel ways of sensemaking, among other approaches.  
 
 How does GenAI change workflows and human cognition? What are opportunities and challenges for designing GenAI systems that protect and augment thinking? Which theories, perspectives, and methods are relevant? This workshop aims to develop a multidisciplinary community interested in exploring these questions to protect against the erosion, and fuel the augmentation, of human cognition using GenAI.
 
@@ -49,7 +49,7 @@ We invite contributions to our three core themes addressing questions such as:
 
 
    - What are promising design strategies, including interface mechanisms, interaction designs, and design patterns that protect or augment human cognition?
-   - What are effective usage strategies where AI is used to help people think, learn, create, and work better, even in general-purpose tools like ChatGPT that are not specifically designed as TfT?
+   - What are effective usage strategies where AI is used to help people think, learn, create, and work better, even for general-purpose tools like ChatGPT that are not specifically designed as TfT?
    - How can we systematise specific examples into tangible, transferable strategies across domains and contexts?
    - What are useful framings for the role of GenAI (e.g., AI as provocateur or facilitator) that inspire effective design and usage?
    - Can we theoretically ground these strategies and provide empirical evidence for their effectiveness?
@@ -58,8 +58,9 @@ We invite contributions to our three core themes addressing questions such as:
    
     *What are the outcomes of tools for thought, and how do we measure them?*
 
-   - What counts as a "good" outcome for TfTs? How do we define desirable outcomes beyond task performance?
-   - How can we capture intermediary outcomes (e.g., artefacts like notes or diagrams that scaffold thinking)?
+   - What counts as a "good" outcome for the people using a TfT? How do we define desirable outcomes beyond task performance?
+   - How can we capture intermediary outcomes that are relevant for a workflow and thought process (e.g., artefacts like notes or diagrams that scaffold thinking)?
+   - How can TfT be designed so that they avoid skipping over intermediary artefacts and outcomes that are important to the human thought process (e.g. for sensemaking, divergent thinking etc.)?
    - How do we measure cognitive outcomes such as understanding, learning, critical thinking, and metacognitive engagement?
    - What role do task outcomes (performance) play, and how do we balance them with cognitive goals?
    - What evaluation methods are appropriate for capturing the richness of cognition—including process tracing, artefact analysis, cognitive assessments, and longitudinal studies?
@@ -70,10 +71,10 @@ We invite contributions to our three core themes addressing questions such as:
     *How can tools for thought achieve successful adoption and integration into people's workflows?*
 
     - What makes a good experience in a TfT, and how is it adequately balanced with the friction that might be required to support cognitive engagement?
-    - How might we imbue users with intrinsic motivation to use GenAI in ways that support improved cognitive outcomes?
-    - What strategies can we employ to communicate the value of TfT to stakeholders and achieve buy-in at the organisational level?
+    - How could the value of a TfT and the additional cognitive effort it might involve be communicated?
+    - How might we foster people's intrinsic motivation to use AI in ways that support improved cognitive outcomes?
     - How might we manage trade-offs between productivity and cognitive outcomes to maximise successful integration and sustained use?
-    - Are there strategies that resolve the conflict between productivity and cognitive outcomes, allowing users to achieve both?
+    - Are there strategies that resolve possible tensions between productivity and cognitive outcomes, allowing users to achieve both?
 
 ## What to Submit {#submission}
 
@@ -94,12 +95,10 @@ Submissions can take diverse forms, including but not limited to:
 - Measurement techniques and methodologies
 - Critical reflections and provocations
 
-We generally encourage contributions that are oriented towards operationalisation, meaning that they provide clear paths to implementation and use - be it for a study design, evaluation approach, or TfT interface design - and/or that they are targeted at existing AI tools/uses and in which ways they are (or are not) a TfT.
+We generally encourage contributions that are oriented towards operationalisation, meaning that they provide clear paths to implementation and use—be it for a study design, evaluation approach, or TfT interface design—and/or that they are targeted at existing AI tools/uses and in which ways they are (or are not) a TfT.
 
 
 ## How to Submit
-
-**Submission portal:** TBD
 
 **Submission Requirements:**
 
@@ -108,19 +107,21 @@ We generally encourage contributions that are oriented towards operationalisatio
    - Upload the PDF and the source files of your workshop paper (LaTeX source or Word document) via the submission form.
  
 2. **"Mini poster"**: 
-   - Make a copy of the [Miro board template](https://miro.com/app/board/uXjVGayRUc8=/?share_link_id=91990937828) in your own Miro account.
-    
-        Tip: You can find some sample “mini posters” here to give you an idea on how to fill out the mini poster template.
-   
-   - Fill out the template.
-   - Include the sharing URL to your Miro board and a PDF export of it in the submission form. Please follow the instructions in the Miro board for how to do this.
+   - Make sure you have a Miro account (you can create one for free).
+   - Open the [Miro board template](https://miro.com/app/board/uXjVGVr33NA=/?share_link_id=778756096429).
+   - Make sure that you are logged into your Miro account.
+   - Create a copy of the Miro board template by following the instructions on the board. (Note that you won't be able to create a duplicate if you aren't logged into your Miro account.)
+   - Once you have created a duplicate in your own account, fill out your copy of the template.
+   - We created this [sample Miro board](https://miro.com/app/board/uXjVGVr1ixg=/?share_link_id=906043387845) to give you an idea of how a 'mini poster' could look like upon submission.
+   - Please note that the Miro board should be mainly seen as a "scaffold" to help you reflect on your ideas (such as for a new AI tool) from different angles that are related to the workshop's goal of further operationalising TfTs. Don't worry too much if it should not be that straightforward for you to fill out all of the template elements. It is also fine if you just state why some of the elements/aspects might not be that relevant for your idea/contribution (e.g. for the type of AI tool you propose).
+   - When you are done with your mini poster, create a sharing URL and export it as a PDF. Please follow the **instructions on the Miro board** for how to do this and include both the URL and PDF in your submission.
  
-3. **Number of attendees**: Provide the number of authors planning to attend (min.1 and max. 2).
+3. **Number of attendees**: Confirm the number of authors planning to attend (min. 1 and max. 2).
 4. **Personal statement**: Prepare a max. 150-word personal statement for the attending author(s).
 
 
 
-**Tip**: Filling out the mini poster template **before or during** the process of writing the workshop paper may help you structure the latter and already include some of the components of the poster - but this is of course completely up to you.
+**Tip**: Filling out the mini poster template **before or during** the process of writing the workshop paper may help you structure the latter and already include some of the components of the poster—but this is of course completely up to you.
 We do not expect you to fill out every box/field on the Miro board. Although we have tested the board with a range of contribution types, we are aware that not all the boxes might be equally applicable to all contributions.
 
 **Please note**: Accepted papers will be published on the workshop website. At least one author of each accepted submission must attend the workshop (and at most two authors may attend).
