@@ -25,7 +25,7 @@ April 2026 in Barcelona
 ## CHI 2026 Workshop Key Dates
 
 - **Deadline for submissions:** Thursday, February 12 2026 AoE
-- **Notifications of acceptance:** Friday, February 27 2026
+- **Notifications of acceptance:** Wednesday, February 25 2026
 
 ## About {#about}
 
@@ -121,12 +121,11 @@ We generally encourage contributions that are oriented towards operationalisatio
 
 
 
-**Tip**: Filling out the mini poster template **before or during** the process of writing the workshop paper may help you structure the latter and already include some of the components of the poster—but this is of course completely up to you.
-We do not expect you to fill out every box/field on the Miro board. Although we have tested the board with a range of contribution types, we are aware that not all the boxes might be equally applicable to all contributions.
+**Tip**: Filling out the mini poster template **before or during** the process of writing the workshop paper may help you structure the latter and include some of the aspects the poster template—but this is of course completely up to you.
 
-**Please note**: Accepted papers will be published on the workshop website. At least one author of each accepted submission must attend the workshop (and at most two authors may attend).
+**Please note**: Accepted submissions will be published on the workshop website. At least one author of each accepted submission must attend the workshop (and at most two authors may attend).
 
-**Submission**: [Click here](https://forms.fillout.com/t/u5Dx2rkszPus) to proceed to the submission form
+**Submission**: [Click here](https://forms.fillout.com/t/u5Dx2rkszPus) to proceed to the submission form.
 
 ## What Happens After Acceptance
 The organisers will thematically cluster the Miro board mini posters to form participant groups for collaborative work during the workshop. Before the workshop, participants will be asked to read the submissions (especially the mini posters) of their group members to enable focused and productive discussions.
