@@ -145,7 +145,7 @@ We aim for **45 participants** to foster rich discussion and meaningful collabor
 
 **Submission deadline**: Thursday, February 12, 2026 AoE
 
-**Notification of acceptance**: Thursday, February 25, 2026 AoE
+**Notification of acceptance**: Wednesday, February 25, 2026 AoE
 
 **Camera-ready**: Thursday, March 26, 2026 AoE
 
