@@ -39,7 +39,7 @@ Successful articles submission will have to first submit an article proposal of 
 
 We will be accepting two kinds of submissions: traditional articles that present novel systems, research and ideas, as well as commentary articles. Commentary articles are submissions where a core or seminal paper is commented on by others. Commentaries are appropriate for articulating diverse viewpoints and for including perspectives beyond the papers included. Potential commentary topics include: "The Cognitive Dependency Debate: Enhancement vs. Atrophy"; "Industry vs. Academic Perspectives on GenAI Cognitive Tools"; and "Cross-Cultural Views on Cognitive Augmentation"
 
-__Article proposals can be in .docx or .pdf format and need to be submitted using the following online form **until October 15th, 2025 (anywhere on earth)**.__
+~~Article proposals can be in .docx or .pdf format and need to be submitted using the following online form until October 15th, 2025 (anywhere on earth).~~
 
 **The deadline for article proposals has passed.**
 
