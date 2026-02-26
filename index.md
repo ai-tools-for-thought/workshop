@@ -4,19 +4,28 @@ title: "CHI 2026 Workshop on Tools for Thought"
 banner_image: "/assets/images/banner.png"
 ---
 
-<h1 id="home">CHI2026 Workshop on Tools for Thought:<br></h1>
+<h1 id="home">CHI2026 Workshop on Tools for Thought<br></h1>
 
 _Understanding, Protecting, and Augmenting Human Cognition with Generative AI — From Vision to Implementation_
 
-April 2026 in Barcelona
+April 16 2026 in Barcelona
 
 <div class="banner">
     <img src="{{ '/assets/images/banner2.png' | relative_url }}" alt="Workshop Banner" class="hero-image" />
 </div>
 
+### When?
+Thursday, 16 April 2026
+
+14:15 – 18:00 CEST
+
+### Where?
+Centre de Convencions Internacional de Barcelona
+
+P1 - Room 122
+
 ## News {#news}
 
-- We're accepting [submissions](/workshop/#submission) to our CHI 2026 workshop!
 -  <a href="https://www.microsoft.com/en-us/research/publication/understanding-protecting-and-augmenting-human-cognition-with-generative-ai-a-synthesis-of-the-chi-2025-tools-for-thought-workshop/">2025 Workshop Synthesis</a>
 
 - <a href="{{ '/hci-special-issue' | relative_url }}">2026 Human Computer Interaction Journal Special Issue CFP</a>
@@ -24,8 +33,13 @@ April 2026 in Barcelona
 
 ## CHI 2026 Workshop Key Dates
 
-- **Deadline for submissions:** Thursday, February 12 2026 AoE
-- **Notifications of acceptance:** Wednesday, February 25 2026
+~~- **Deadline for submissions:** Thursday, February 12 2026 AoE~~
+
+~~- **Notifications of acceptance:** Wednesday, February 25 2026 AoE~~
+
+- **Deadline for uploading camera-ready version:** Thursday, March 26 2026 AoE
+
+- **Workshop date:** Thursday, 16 April 2026
 
 ## About {#about}
 
@@ -108,7 +122,7 @@ We generally encourage contributions that are oriented towards operationalisatio
  
 2. **"Mini poster"**: 
    - Make sure you have a Miro account (you can create one for free).
-   - Open the [Miro board template](https://miro.com/app/board/uXjVGVr33NA=/?share_link_id=778756096429).
+   - Open the Miro board template.
    - Make sure that you are logged into your Miro account.
    - Create a copy of the Miro board template by following the instructions on the board. (Note that you won't be able to create a duplicate if you aren't logged into your Miro account.)
    - Once you have created a duplicate in your own account, fill out your copy of the template.
@@ -125,8 +139,6 @@ We generally encourage contributions that are oriented towards operationalisatio
 
 **Please note**: Accepted submissions will be published on the workshop website. At least one author of each accepted submission must attend the workshop (and at most two authors may attend).
 
-**Submission**: [Click here](https://forms.fillout.com/t/u5Dx2rkszPus) to proceed to the submission form.
-
 ## What Happens After Acceptance
 The organisers will thematically cluster the Miro board mini posters to form participant groups for collaborative work during the workshop. Before the workshop, participants will be asked to read the submissions (especially the mini posters) of their group members to enable focused and productive discussions.
 
@@ -137,17 +149,18 @@ This will be a 180-minute workshop organised around small group work:
 2. **Collaborative work**: Groups will work on tangible outputs of their choice (e.g., new frameworks, design principles, measurement techniques, theory development, or even low-fidelity TfT prototypes in a mini-hackathon style)
 3. **Group pitches**: Each group will present their results to all participants
 
-We aim for **45 participants** to foster rich discussion and meaningful collaboration.
+We aim for **~45 participants** to foster rich discussion and meaningful collaboration.
 
 
 
 ## Important Information
+~~- **Deadline for submissions:** Thursday, February 12 2026 AoE~~
 
-**Submission deadline**: Thursday, February 12, 2026 AoE
+~~- **Notifications of acceptance:** Wednesday, February 25 2026 AoE~~
 
-**Notification of acceptance**: Wednesday, February 25, 2026 AoE
+- **Deadline for uploading camera-ready version:** Thursday, March 26 2026 AoE
 
-**Camera-ready**: Thursday, March 26, 2026 AoE
+- **Workshop date:** Thursday, 16 April 2026
 
 **Questions?** Contact us at [chi.tft.workshop@gmail.com](mailto:chi.tft.workshop@gmail.com)
 
