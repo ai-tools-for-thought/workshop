@@ -14,15 +14,10 @@ April 16 2026 in Barcelona
     <img src="{{ '/assets/images/banner2.png' | relative_url }}" alt="Workshop Banner" class="hero-image" />
 </div>
 
-### When?
-Thursday, 16 April 2026
+### When and where?
+- Thursday, 16 April 2026, 14:15 – 18:00 CEST
 
-14:15 – 18:00 CEST
-
-### Where?
-Centre de Convencions Internacional de Barcelona
-
-P1 - Room 122
+- Centre de Convencions Internacional de Barcelona, **P1 - Room 122**
 
 ## News {#news}
 
