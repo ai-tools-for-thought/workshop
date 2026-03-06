@@ -46,7 +46,7 @@ This workshop is a follow-up to the CHI 2025 Tools for Thought workshop, which b
 
 For more details, see our [workshop proposal]({{ '/assets/Tools_for_Thought_with_Generative_AI_2026_Proposal.pdf' | relative_url }}).
 
-Feel free to [join our Discord server](https://discord.gg/WtEzx43ZmD), where you can ask questions, or discuss the topics of this workshop.
+Feel free to [join our Discord server](https://discord.gg/dE7GeAhnza), where you can ask questions, or discuss the topics of this workshop.
 
 ## Workshop Themes {#themes}
 
