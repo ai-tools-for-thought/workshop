@@ -9,6 +9,7 @@ banner_image: "/assets/images/banner.png"
 _Understanding, Protecting, and Augmenting Human Cognition with Generative AI — From Vision to Implementation_
 
 April 16 2026 in Barcelona
+
 Please note that this is an *invitation-only* workshop, as the format relies on the submissions and preparation of the invited participants. Therefore, we are unable to accept participants without accepted submissions.
 
 <div class="banner">
