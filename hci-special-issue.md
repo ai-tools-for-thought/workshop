@@ -28,10 +28,10 @@ Generative AI is rapidly reshaping cognitive workflows—from creative writing t
 - ~~Proposals Due: October 15, 2025~~
 - ~~Proposal Decisions: October 30-November 3, 2025~~
 - ~~Full Paper Deadline: February 2, 2026~~
-- First Reviews to Authors: April 2, 2026
-- Revised Papers Due: May 13, 2026
-- Final Decisions: June 26, 2026
-- Camera-Ready Papers Due: July 22, 2026
+- First Reviews to Authors: end of May, 2026
+- Revised Papers Due: June 26, 2026
+- Final Decisions: July 3rd, 2026
+- Camera-Ready Papers Due: August 07, 2026
 - Publication: ~September, 2026
 
 ## How to submit article proposals.
