@@ -53,6 +53,8 @@ jobs:
 
   # Deployment job
   deploy:
+    env:
+      ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: "true"
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -61,4 +63,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v5
+        uses: actions/deploy-pages@v4
