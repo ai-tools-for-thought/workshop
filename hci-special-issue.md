@@ -30,7 +30,7 @@ Generative AI is rapidly reshaping cognitive workflows—from creative writing t
 - ~~Full Paper Deadline: February 2, 2026~~
 - ~~First Reviews to Authors: end of May, 2026~~
 - ~~Revised Papers Due: June 26, 2026~~
-- Final Decisions: July 10th, 2026
+- ~~Final Decisions: July 10th, 2026~~
 - Camera-Ready Papers Due: August 07, 2026
 - Publication: ~September, 2026
 
