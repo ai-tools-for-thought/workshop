@@ -50,6 +50,8 @@ For more details, see our [workshop proposal]({{ '/assets/Tools_for_Thought_with
 
 Feel free to [join our Discord server](https://discord.gg/dE7GeAhnza), where you can ask questions, or discuss the topics of this workshop.
 
+This year's workshop was partially supported by Munich Center for Machine Learning (MCML).
+
 ## Workshop Themes {#themes}
 
 We invite contributions to our three core themes addressing questions such as:
